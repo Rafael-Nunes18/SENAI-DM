@@ -1,4 +1,22 @@
-#First semester-Embedded Systems
+Welcome in my repository!
+
+you wil found here:
+
+
+#First Semester projects:
+-Traffic Light Acrossing
+-Battery Alert
+-Snsor LDR
+-IOT
+-Bluetooth ESP
+-And others
+
+
+#Second Semester projects:
+-Hello World.html
+-Pizzaria.html
+-Style.html
+-And others
 
 
 
@@ -15,17 +33,6 @@
 
 
 
-
-
-#My first project:
-
-![Aula 23- Cruzamento do semáforo ](https://github.com/user-attachments/assets/e042e1cb-6594-47be-b182-501fb0325390)
-
-
-
-
-#My final project:
-![IMG-20250625-WA0002](https://github.com/user-attachments/assets/8fd4375c-e8b8-43b2-8d51-9edc0f2a72b9)
 
 
 
