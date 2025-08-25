@@ -1,33 +1,18 @@
-Welcome in my repository!
+Welcome! you wil found here:
+
+#First Semester:
+-🚦 blinking LED
+-📟 LCD
+-🌐 IOT
+-📡 Bluetooth
+-💡 Light Sensor
 
 
-you wil found here:
-
-
-#First Semester projects:
--Traffic Light Acrossing
--Battery Alert
--Snsor LDR
--IOT
--Bluetooth ESP
--And others
-
-
-#Second Semester projects:
--Hello World.html
--Pizzaria.html
--Style.html
--And others
-
-
-
-
-
-
-
-
-
-
+#Second Smester:
+-🍕 Pizzaria.html
+-🛒 Market.html
+-🎨 Style.html
+-📝 Hello World.html
 
 
 
