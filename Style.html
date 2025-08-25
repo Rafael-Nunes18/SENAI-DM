@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Style</title>
+
+    
+<style>
+*{
+font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+body{
+background-color: black;
+color: white;
+padding: 50px;
+
+}
+.banner{
+ background-image: linear-gradient(180deg, rgba(11,14,20,0),rgba(11,14,20,0.6)),url("https://picsum.photos/600/300");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+ padding: 40px;
+ text-align: center;
+}
+
+.banner p{
+    margin: 5px 0 0;
+    color: white;
+}
+
+.Highlight{
+    color:#0a7cff
+}
+#Special{
+    background-color: #477db3;
+    padding: 5px;
+    border-radius: 15px;
+    width: 500px;
+}
+
+img{
+    max-width: 50%;
+    border-radius: 8px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid #1a2030;
+    padding: 8px;
+}
+
+th{
+    background-color: #101522;
+}
+
+.button{
+    background-color: #0a7cff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 6px;
+    color: #ffffff;
+}
+
+.button:hover{
+    cursor: pointer;
+    background-color: #005bb5;
+}
+</style>
+
+    
+</head>
+<body>
+    <div class="banner">
+        <h1>CSS Class</h1>
+        <p>the Introduction of style page </p>
+    </div>
+    <h2>Selectores</h2>
+    <p>this is a normal Paragraph</p>
+    <p class="Highlight">this is a Paragraph with Highlight class</p>
+    <p id="Special">this is a Paragraph with id Special</p>
+
+    <h2>image</h2>
+    <img src="https://picsum.photos/600/300" alt="image">
+
+    <h2>Table</h2>
+    <table>
+    <tr>
+    <th>Element</th>
+    <th>Function</th>
+    </tr>
+    <tr>
+        <td>&lt;p&gt;</td>
+        <td>Paragraph</td>
+    </tr>
+    <tr>
+        <td>&lt;a&gt;</td>
+        <td>Link</td>
+    </tr>
+ </table>
+    <h2>Button with effect</h2>
+    <button class="button">click here</button>
+</body>
+</html>
