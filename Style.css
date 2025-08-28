@@ -1,0 +1,71 @@
+*{
+font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+body{
+background-color: black;
+color: white;
+padding: 50px;
+
+}
+.banner{
+ background-image: linear-gradient(180deg, rgba(11,14,20,0),rgba(11,14,20,0.6)),url("https://picsum.photos/600/300");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+ padding: 40px;
+ text-align: center;
+}
+
+.banner p{
+    margin: 5px 0 0;
+    color: white;
+}
+
+.Highlight{
+    color:#0a7cff
+}
+#Special{
+    background-color: #477db3;
+    padding: 5px;
+    border-radius: 15px;
+    width: 500px;
+}
+
+img{
+    max-width: 50%;
+    border-radius: 8px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid #1a2030;
+    padding: 8px;
+}
+
+th{
+    background-color: #101522;
+}
+
+.button{
+    background-color: #0a7cff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 6px;
+    color: #ffffff;
+}
+
+.button:hover{
+    cursor: pointer;
+    background-color: #005bb5;
+}

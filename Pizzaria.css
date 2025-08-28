@@ -1,0 +1,29 @@
+body{
+    background-color: wheat
+}
+
+
+h1{
+    background-color: rgb(197, 67, 31);
+    padding: 2%;
+    margin: 0%;
+    color: aliceblue;
+}
+
+.spaced{
+    display: flex;
+    justify-content: space-around ;
+}
+
+.spaced2{
+    display: flex;
+    justify-content: space-around;
+
+}
+footer{
+    background-color: rgb(94, 188, 77);
+    color: white;
+    padding: 3%;
+    display: flex;
+    justify-content: space-around;
+}
