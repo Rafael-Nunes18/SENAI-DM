@@ -9,9 +9,9 @@ Welcome! you wil found here:
 
 
 #Second Smester:
--🍕 Pizzaria.html
+-🍕 Pizzaria.css
 -🛒 Market.html
--🎨 Style.html
+-🎨 Style.css
 -📝 Hello World.html
 
 
