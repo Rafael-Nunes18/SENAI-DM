@@ -26,8 +26,17 @@ Using an Arduino and some LEDs, I created a traffic light system.
 
 
 
+
+
+
 -Pizzeria 🍕
 Using HTML and CSS, I designed a pizza sales page layout.
+
+
+
+<img width="1877" height="913" alt="Screenshot 2025-09-05 104030" src="https://github.com/user-attachments/assets/32a39392-8885-403a-83bc-2ef6e016c17d" />
+
+
 
 
 
