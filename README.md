@@ -15,8 +15,22 @@ Below are some of the most prominent projects in the repository:
 -Traffic Light Intersection 🚦
 Using an Arduino and some LEDs, I created a traffic light system.
 
--Pizzeria 🍕
+
+
+
+<img width="1706" height="713" alt="Aula 23- Cruzamento do semáforo " src="https://github.com/user-attachments/assets/e70467e8-405c-43c3-9b04-f9ddcdaadf07" />
+
+<br>
+<br>
+
+-Pizzaria 🍕
 Using HTML and CSS, I designed a pizza sales page layout.
+
+
+
+<img width="1877" height="913" alt="Screenshot 2025-09-05 104030" src="https://github.com/user-attachments/assets/32a39392-8885-403a-83bc-2ef6e016c17d" />
+
+
 
 
 
