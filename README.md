@@ -23,7 +23,7 @@ Using an Arduino and some LEDs, I created a traffic light system.
 <br>
 <br>
 
--Pizzeria 🍕
+-Pizzaria 🍕
 Using HTML and CSS, I designed a pizza sales page layout.
 
 
