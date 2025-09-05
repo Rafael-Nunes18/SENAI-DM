@@ -1,23 +1,22 @@
-# SENAI-DM
+SENAI-DM
 
-Este repositório foi criado para compartilhar atividades e projetos desenvolvidos durante o meu curso de Desenvolvimento de Sistemas no SENAI.
-Na data que esse README está sendo feito, está sendo postado atividades do meu segundo semestre.
+This repository was created to share activities and projects developed during my Systems Development course at SENAI.
+At the time this README is being written, I’m currently posting activities from my second semester.
 
-## Sobre o Repositório
-o Curso de Desenvolvimento de Sistemas do Senai se divide em 4 áreas: Sistemas Embarcados, Front-End, Back-End e Mobile. 
-Por isso os diretorios foram dividos assim, contendo cada um deles as atividades relacionadas ao tema.
+About the Repository
 
-## Principais Projetos
+The Systems Development course at SENAI is divided into four areas: Embedded Systems, Front-End, Back-End, and Mobile.
+For that reason, the directories are organized accordingly, with each one containing activities related to its respective topic.
 
-Abaixo estão alguns dos projetos que mais se destacam no repositório:
+Main Projects
 
-- Traffic Light Intersection
-  Descrição breve do projeto X.
-- Aurum Lab 
-  Descrição breve do projeto Y.
-- xx  
-  Descrição breve do projeto Z.
+Below are some of the most prominent projects in the repository:
 
+.Traffic Light Intersection 🚦
+Using an Arduino and some LEDs, I created a traffic light system.
+
+.Pizzeria 🍕
+Using HTML and CSS, I designed a pizza sales page layout.
 
 
 
