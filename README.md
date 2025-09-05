@@ -20,14 +20,8 @@ Using an Arduino and some LEDs, I created a traffic light system.
 
 <img width="1706" height="713" alt="Aula 23- Cruzamento do semáforo " src="https://github.com/user-attachments/assets/e70467e8-405c-43c3-9b04-f9ddcdaadf07" />
 
-
-
-
-
-
-
-
-
+<br>
+<br>
 
 -Pizzeria 🍕
 Using HTML and CSS, I designed a pizza sales page layout.
