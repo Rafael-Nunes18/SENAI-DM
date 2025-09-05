@@ -11,7 +11,7 @@ Por isso os diretorios foram dividos assim, contendo cada um deles as atividades
 
 Abaixo estão alguns dos projetos que mais se destacam no repositório:
 
-- Traffic Light Crossing
+- Traffic Light Intersection
   Descrição breve do projeto X.
 - Aurum Lab 
   Descrição breve do projeto Y.
